@@ -1,0 +1,3 @@
+C:\Users\Sergio Henrique\Desktop\faculdade de ads\ALGORITMO\condicional_caso.por
+C:\Users\Sergio Henrique\Desktop\faculdade de ads\ALGORITMO\aula_matriz_e_vetores.por
+C:\Users\Sergio Henrique\Desktop\faculdade de ads\ALGORITMO\exercico_lacosderepeticao_tabuada.por
